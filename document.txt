@@ -1,0 +1,14 @@
+Archive 8
+Annotations format: 'Class name', 'x-center', 'y-center', 'x-distance', 'y-distance'
+Classes: 20 classes
+{'ambulance': 0, 'army vehicle': 1, 'auto rickshaw': 2, 'bicycle': 3, 'bus': 4, 'car': 5, 'garbagevan': 6, 'human hauler': 7, 'minibus': 8, 'minivan': 9, 'motorbike': 10, 'pickup': 11, 'policecar': 12, 'rickshaw': 13, 'scooter': 14, 'suv': 15, 'taxi': 16, 'three wheelers -CNG-': 17, 'truck': 18, 'van': 19, 'wheelbarrow': 20}
+
+Archive 7
+Annotations format: 
+Classes: 8 classes
+{'auto': 0, 'bus': 1, 'car': 2, 'lcv': 3, 'motorcycle': 4, 'multiaxle': 5, 'tractor': 6, 'truck': 7}
+LCV = Truck
+
+
+Archive 5
+Annotations format: 

@@ -1,0 +1,7 @@
+/arch 5/
+/arch 7/
+/arch 8/
+/testing/
+full_model.h5
+model_json.json
+model_weights.weights.h5
